@@ -1,0 +1,10 @@
+{
+  "name": "the-cube-tcw",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve . -p $PORT"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
